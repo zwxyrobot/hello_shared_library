@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello_shared_library.dir/src/main.cpp.o  -o hello_shared_library -Wl,-rpath,/home/zhangwei/catkin_ws/src/hello_shared_library libshared_library.so 
